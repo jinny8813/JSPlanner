@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temporary files
+.DS_Store
+*.tmp
+*.swp
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
